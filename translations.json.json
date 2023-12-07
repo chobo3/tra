@@ -7,8 +7,10 @@
     "my": "mi",
     "name": "nombre",
      "is": "es / esta",
-     "I": "Yo",
+     "i": "Yo",
      "she": "ella",
      "this": "este"
+    "a": "una / un",
+    "an": "un / una"
   }
 }
