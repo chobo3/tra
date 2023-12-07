@@ -1,29 +1,29 @@
 {
-"frutas": [
-{
-"nombre": "Manzana",
-"color": "Rojo",
-"sabor": "Dulce"
-},
-{
-"nombre": "Plátano",
-"color": "Amarillo",
-"sabor": "Dulce"
-},
-{
-"nombre": "Uva",
-"color": "Morado",
-"sabor": "Dulce"
-},
-{
-"nombre": "Naranja",
-"color": "Naranja",
-"sabor": "Cítrico"
-},
-{
-"nombre": "Fresa",
-"color": "Rojo",
-"sabor": "Dulce"
-}
-]
+    "frutas": [
+        {
+            "nombre": "Manzana",
+            "color": "Rojo",
+            "sabor": "Dulce"
+        },
+        {
+            "nombre": "Plátano",
+            "color": "Amarillo",
+            "sabor": "Dulce"
+        },
+        {
+            "nombre": "Uva",
+            "color": "Morado",
+            "sabor": "Dulce"
+        },
+        {
+            "nombre": "Naranja",
+            "color": "Naranja",
+            "sabor": "Cítrico"
+        },
+        {
+            "nombre": "Fresa",
+            "color": "Rojo",
+            "sabor": "Dulce"
+        }
+    ]
 }
