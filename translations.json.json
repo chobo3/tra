@@ -5,6 +5,10 @@
     "eat": "come",
     "grass": "hierba",
     "my": "mi",
-    "name": "nombre"
+    "name": "nombre",
+     "is": "es / esta",
+     "I": "Yo",
+     "she": "ella",
+     "this": "este"
   }
 }
